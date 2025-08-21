@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="email-writer" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="GEMINI_API_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" />
+      <env name="GEMINI_API_KEY" value="AIzaSyDOdTWeP4YoKONYxvln2XW7dcqoYys5cl8" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.surya.email_writer.EmailWriterApplication" />
+    <module name="email-writer" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
